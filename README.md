@@ -4,8 +4,7 @@ Bem-vindo ao repositório de testes automatizados para o processo seletivo da Pa
 
 ## Estrutura do Repositório
 
-- **features/**: Contém os arquivos de features escritos em Gherkin, descrevendo os cenários de teste.
-- **steps/**: Contém as implementações dos passos em JavaScript que correspondem aos cenários de teste.
+- **steps/**: Contém os arquivos de features escritos em Gherkin e contém as implementações dos passos em JavaScript que correspondem aos cenários de teste.
 
 ## Cenários de Teste
 
