@@ -8,7 +8,7 @@ Bem-vindo ao repositório de testes automatizados para o processo seletivo da Pa
 
 ## Cenários de Teste
 
-Este repositório inclui diversos cenários de teste que verificam funcionalidades importantes do site da Pacto. Aqui estão alguns dos principais cenários incluídos:
+Este repositório inclui diversos cenários de teste que verificam funcionalidades importantes do site estudado (https://www.demoblaze.com/index.html). Aqui estão alguns dos principais cenários incluídos:
 
 1. **Adicionar Produto ao Carrinho**:
 
